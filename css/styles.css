@@ -1,4 +1,52 @@
-h1 {
-    color: red;
-    background-color: aqua;
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #f0ebf8;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #333;
+}
+
+p, label {
+    color: #444;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+input[tipe="text"],
+input[tipe="number"],
+input[tipe="date"],
+input[tipe="file"] {
+    width: 400px;
+}
+
+/* Page Header */
+.header {
+    height: 160px;
+    padding: 20px;
+    background-color: #673ab7;
+}
+
+.header h3 {
+    color: #fff;
+    margin-top: 0;
+}
+
+/* Form Container */
+.form-container {
+    background-color: #fdfdfd;
+    width: 60%;
+    margin-left: 0 auto;
+    position: relative;
+    top: -62px;
 }
