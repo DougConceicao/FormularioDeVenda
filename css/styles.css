@@ -26,8 +26,13 @@ input {
 input[tipe="text"],
 input[tipe="number"],
 input[tipe="date"],
-input[tipe="file"] {
+input[tipe="file"],
+textarea {
     width: 400px;
+}
+
+textarea {
+    padding: 10px 5px;
 }
 
 /* Page Header */
