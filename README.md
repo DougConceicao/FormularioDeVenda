@@ -6,7 +6,7 @@ Nesse projeto o objetivo foi trabalha e aplicar as funções mais utilizadas do 
 
 Um formulário bastante prático e fácil de ser utilizado, onde o vendedor anuncia seu carro colocando Marca, Modelo, Valor, Ano do carro, Quilometragens, Acessórios e etc. Um formulário bastante interativo.
 
-Veja você mesmo: https://the-offspring-page.vercel.app/
+Veja você mesmo: https://formulario-de-venda-kacm7v970-dougconceicao.vercel.app
 
 ---
 
