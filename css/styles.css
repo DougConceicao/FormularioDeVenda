@@ -23,10 +23,10 @@ input {
     padding: 10px 0;
 }
 
-input[tipe="text"],
-input[tipe="number"],
-input[tipe="date"],
-input[tipe="file"],
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="file"],
 textarea {
     width: 400px;
 }
@@ -55,6 +55,8 @@ textarea {
     position: relative;
     top: -62px;
 }
+
+
 
 
 
