@@ -26,8 +26,7 @@ input {
 input[type="text"],
 input[type="number"],
 input[type="date"],
-input[type="file"],
-textarea {
+input[type="file"] {
     width: 400px;
 }
 
@@ -51,7 +50,7 @@ textarea {
 .form-container {
     background-color: #fdfdfd;
     width: 60%;
-    margin-left: 0 auto;
+    margin: 0 auto;
     position: relative;
     top: -62px;
 }
